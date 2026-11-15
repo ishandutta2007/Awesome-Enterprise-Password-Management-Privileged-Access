@@ -1,6 +1,6 @@
 # Awesome-Enterprise-Password-Management-Privileged-Access
 
-# Top Enterprise Password Management & Privileged Access Ecosystem
+## Top Enterprise Password Management & Privileged Access Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Secrets Vaulting, Just-in-Time Access & Self-Hosted PAM Bastions*  
