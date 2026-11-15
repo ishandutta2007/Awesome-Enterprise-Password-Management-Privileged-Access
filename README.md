@@ -15,10 +15,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The global Privileged Access Management (PAM) and Enterprise Password Management (EPM) markets are valued at roughly **$4.5B–$5.5B** and **$3.0B–$4.0B** respectively (growing at ~18–22% CAGR through 2026). The PAM sector is **highly concentrated and oligopolistic** among established enterprise titans (CyberArk, BeyondTrust, Delinea) commanding high-contract compliance spend, while the team/enterprise password vaulting sector remains **moderately fragmented and competitive** across zero-knowledge independent vendors (Bitwarden, 1Password) and cloud ecosystem suites.
 
 ## SaaS/Hosted Platforms
 
